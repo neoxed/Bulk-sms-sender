@@ -1,6 +1,6 @@
 # Bulk sender using APK + Script python
 Application doc : http://sindhitutorials.com/blog/gsm-modem-free-sms-android-app/
-script doc below
+
 
 
 ## Tutoriel
